@@ -7,7 +7,7 @@ GML_FILE = 'Wybranowo-poprawione.gml'
 GTX_FILE = 'geoida_PL.gtx'
 
 # Parametry pomiaru v33
-AVERAGING_EPOCHS = 15      # Czas uśredniania (sekundy)
+AVERAGING_EPOCHS = 16      # Czas uśredniania (sekundy)
 SIGMA_LIMIT = 2.0          # Granica błędu w cm (powyżej tego pomiar jest "niepewny")
 
 # Sprzęt (Piny)
